@@ -1,0 +1,256 @@
+*{
+    margin: 0px;
+}
+.main{
+    display: flex;
+    position: relative;
+    background:linear-gradient(160deg,rgb(0, 162, 255),rgb(18, 189, 98),rgb(143, 143, 142));
+    width: 100%;
+    height: 738px;
+}
+.sideBar{
+    position: absolute;
+    background-color: transparent;
+    height: 100%;
+    width: 5%;
+}
+.animeLogo{
+    position: absolute;
+    height: 30%;
+    width: 90%;
+    margin: 5% 0% 0% 5%;
+}
+.s1{
+    position: absolute;
+    height: 25%;
+    width: 80%;
+    margin-top: 100%;
+    margin-left: 10%;
+}
+.s2{
+    position: absolute;
+    height: 20%;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 180%;
+}
+.s3{
+    position: absolute;
+    height: 20%;
+    width: 70%;
+    margin-left: 16%;
+    margin-top: 214%;
+}
+.s4{
+    position: absolute;
+    height: 19%;
+    width: 55%;
+    margin-left: 24%;
+    margin-top: 290%;
+}
+.s5{
+    position: absolute;
+    height: 19%;
+    width: 61%;
+    margin-top: 330%;
+    margin-left: 20%;
+}
+.s6{
+    position: absolute;
+    height: 19%;
+    width: 58%;
+    top: 80%;
+    margin-left: 25%;
+}
+.topbar{
+    position: absolute;
+    height: 6%;
+    width: 95%;
+    margin-left: 5%;
+}
+.tb1{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.htag{
+    position: absolute;
+    height: 76%;
+    width: 50%;
+    padding-left: 3%;
+    padding-top: 1%;
+}
+.user{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    margin-left: 50%;
+}
+.top1bar{
+    position: absolute;
+    height: 40%;
+    width: 92%;
+    margin-left: 6%;
+    margin-top: 4%;
+}
+.pro1{
+    position: absolute;
+    background-color: rgb(233, 228, 228);
+    height: 90%;
+    width: 20%;
+    margin-top: 1%;
+    margin-left: 1%;
+    border-radius: 10%;
+}
+.pro1:hover{
+    transform: scale(1.1);
+}
+#p1{
+    position: absolute;
+    margin-left: 27%;
+}
+#p2{
+    position: absolute;
+    margin-left: 53%;
+}
+#p3{
+    position: absolute;
+    margin-left: 79%;
+}
+.namelogo{
+    position: absolute;
+    border-radius: 50%;
+    height: 40%;
+    width: 40%;
+    background-color: rgb(255, 200, 0);
+    margin: 6% 0% 0% 30%;
+    color: white;
+    font-size: 4vw;
+}
+.name{
+    position: absolute;
+    font-size: 1.1vw;
+    font-weight: bold;
+    margin: 47% 0% 0% 24%;
+}
+.role{
+    position: absolute;
+    font-size: 0.9vw;
+    margin: 53% 0% 0% 24.5%;
+}
+.p1{
+    position: absolute;
+    width: 22%;
+    height: 15%;
+    margin: 62% 0% 0% 25%;
+    background-color: rgb(255, 200, 0);
+    border-radius: 30%;
+    color: white;
+    text-align: center;
+}
+#per1{
+    margin-left: 55%;
+}
+.month{
+    position: absolute;
+}
+.profile1:hover{
+    background-color: rgb(255, 200, 0);
+}
+.profile2:hover{
+    background-color: rgb(84, 2, 171);
+}
+.profile3:hover{
+    background-color: green;
+}
+.profile4:hover{
+    background-color: red;
+}
+#classlogo1{
+    background-color: rgb(84, 2, 171);
+}
+#per12{
+    background-color: rgb(84, 2, 171);
+}
+#per21{
+    background-color: rgb(84, 2, 171);
+    margin-left: 55%;
+}
+#name1{
+    margin-left: 27%;
+}
+#classlogo2{
+    background-color: green;
+}
+#per13{
+    background-color: green;
+}
+#per22{
+    background-color: green;
+    margin-left: 55%;
+}
+#name2{
+    margin-left: 35%;
+}
+#classlogo3{
+    background-color: red;
+}
+#per14{
+    background-color: red;
+}
+#per23{
+    background-color: red;
+    margin-left: 55%;
+}
+#name3{
+    margin-left: 25%;
+}
+#role1{
+    margin-left: 31%;
+}
+.table{
+    position: absolute;
+    margin:23% 0% 0% 5%;
+    background-color: transparent;
+    height: 37.4%;
+    width: 95%;
+}
+#table{
+    width: 95%;
+    margin-left: 2%;
+    height: 110%;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    padding-left: 2%;
+    text-align: left;
+    background-color: rgb(46, 241, 72);
+}
+.tr1{
+    background-color: whitesmoke;
+}
+.tr2{
+    background-color: rgb(221, 224, 227);
+}
+td{
+    padding-left: 2%;
+    text-align: left;
+}
+.view{
+    position: absolute;
+    border-radius: 8px;
+    width: 4%;
+    height: 6%;
+    margin-top: -0.7%;
+    border: 2px solid rgb(46, 241, 72);
+}
+.view1{
+    position:absolute;
+    margin-top: -3%;
+    margin-left: 20%;
+}
+.view:hover{
+    background-color: rgb(46, 241, 72);
+}
